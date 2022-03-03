@@ -1,2 +1,4 @@
 This is my local repo
 adding a line number 2
+My name is Harini and I am working on my git file using git CLI
+It is fun to use CLI.
